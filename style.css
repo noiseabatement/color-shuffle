@@ -1,0 +1,43 @@
+.main{
+    
+    display: flex;
+    flex-wrap: wrap;
+    width: 606px;
+    height: 606px;
+    border: 1px solid black;
+}
+
+.square{
+   
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+}
+
+._1{
+    background-color: blue;
+}
+._2{
+    background-color: rgba(175, 27, 64, 0.363);
+}
+._3{
+    background-color: rgb(74, 99, 62);
+}
+._4{
+    background-color: rgb(37, 33, 31);
+}
+._5{
+    background-color: rgb(124, 141, 83);
+}
+._6{
+    background-color: rgb(211, 191, 194);
+}
+._7{
+    background-color: rgb(112, 134, 115);
+}
+._8{
+    background-color: rgb(55, 2, 85);
+}
+._9{
+    background-color: rgb(240, 171, 24);
+}
